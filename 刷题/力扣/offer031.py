@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time : 2022/7/12 20:38
+<<<<<<< HEAD
 # @Author : hejunran
 
 
@@ -14,3 +15,6 @@ class Solution:
                 stack.pop()
                 i=i+1
         return not stack
+=======
+# @Author : hejunran
+>>>>>>> origin/master
